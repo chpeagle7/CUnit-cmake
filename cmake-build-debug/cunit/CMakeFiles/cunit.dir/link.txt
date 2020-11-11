@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libcunit.a  CMakeFiles/cunit.dir/Sources/Automated/Automated.c.o CMakeFiles/cunit.dir/Sources/Basic/Basic.c.o CMakeFiles/cunit.dir/Sources/Console/Console.c.o CMakeFiles/cunit.dir/Sources/Framework/CUError.c.o CMakeFiles/cunit.dir/Sources/Framework/TestDB.c.o CMakeFiles/cunit.dir/Sources/Framework/TestRun.c.o CMakeFiles/cunit.dir/Sources/Framework/Util.c.o
+/usr/bin/ranlib.exe libcunit.a
